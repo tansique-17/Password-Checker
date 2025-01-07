@@ -27,12 +27,12 @@ A simple and interactive Password Strength Checker application built with Python
 
 1. Clone this repository or download the source code:
    ```bash
-   git clone https://github.com/tansique-17/password-checker.git
+   git clone https://github.com/tansique-17/Password-Checker.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd password-checker
+   cd Password-Checker
    ```
 
 3. Install the required dependencies:
