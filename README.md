@@ -61,7 +61,7 @@ A simple and interactive Password Strength Checker application built with Python
 
 ## Screenshots
 
-![Password Strength Checker](![image](https://github.com/user-attachments/assets/ceeeb1d1-d2d8-4e28-a22d-68c3b61ec415)
+![Password Strength Checker](./Screenshot.png)
 )
 
 ## Requirements
@@ -75,7 +75,7 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/tansique-17/Password-Checker/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Credits
 
